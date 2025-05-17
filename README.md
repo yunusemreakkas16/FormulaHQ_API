@@ -8,7 +8,7 @@ A RESTful API designed to manage Formula data operations efficiently.
 - ADO.NET
 - Stored Procedures
 - SQL Server
-- JWT Authentication
+
 
 ## Key Features
 - Developed RESTful APIs for managing formula data.
