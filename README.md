@@ -14,4 +14,4 @@ A RESTful API designed to manage Formula data operations efficiently.
 - Developed RESTful APIs for managing formula data.
 - Utilized ADO.NET & stored procedures for efficient database interactions.
 - Manually mapped SQL DataReader results to response models.
-- Implemented JWT-based authentication with role-based authorization.
+
